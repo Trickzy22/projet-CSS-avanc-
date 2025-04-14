@@ -151,7 +151,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url("https://sfractus-images.cleo.media/unsafe/0x558:1382x1249/1382x0/images/Les-Teletubbies-sont-de-retour-dans-une-version-2022-7475.jpg");
+  background-image: url("imagesTrickzy/teleto.jpg");
   padding: 1rem;
   margin: 1rem 0;
   background-color: #fff;
@@ -163,7 +163,7 @@ body {
 
 #projects .project:hover {
   box-shadow: 0 0.4rem 0.8rem rgba(0, 0, 0, 0.2);
-  transform: scale(1.5);
+  transform: scale(1.4);
 }
 
 #projects .project h3 {
